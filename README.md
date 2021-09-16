@@ -15,6 +15,8 @@ At times the URL will provide a broken image that can not be displayed.
 
 <iframe src="https://giphy.com/embed/Nb3DQjjEJ0bzcc1GxB" width="374" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Nb3DQjjEJ0bzcc1GxB">via GIPHY</a></p>
 
+![ ](https://giphy.com/embed/Nb3DQjjEJ0bzcc1GxB)
+
   
 ## Stack
 
