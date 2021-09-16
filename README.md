@@ -28,7 +28,7 @@ At times the URL will provide a broken image that can not be displayed.
   
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at solomonad1234@info.com
 
   
 ## FAQ
@@ -40,6 +40,10 @@ Yes! Check the source code and replace the URL with the desired API.
 #### Will I get addicted to finding different puppies?
 
 Use at your own risk!
+
+#### Where did you get the API from?
+
+https://github.com/public-apis/public-apis
 
   ## Color Reference
 
