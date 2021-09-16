@@ -13,7 +13,7 @@ At times the URL will provide a broken image that can not be displayed.
 
 ## Demo
 
-<a href="https://imgflip.com/gif/5n8ltd">via Imgflip</a>
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:128.08%;position:relative;"><iframe width="260" height="333" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/5n8ltd"></iframe></div><p><a href="https://imgflip.com/gif/5n8ltd">via Imgflip</a></p></div>
 
   
 ## Stack
