@@ -12,7 +12,9 @@ At times the URL will provide a broken image that can not be displayed.
 **Javascript** allows the user to access data from the API. This will also work with other URLs that provides images as well so feel free!
 
 ## Demo
-![ ](https://giphy.com/embed/Nb3DQjjEJ0bzcc1GxB.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
 
   
 ## Stack
